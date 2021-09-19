@@ -1,0 +1,15 @@
+.menu-nav-next{
+    color: rgb(48, 22, 167);
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    font-weight: 400;
+}
+
+.menu-nav-prev{
+    color: rgb(255, 136, 0);
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    font-weight: 400;
+}
